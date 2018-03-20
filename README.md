@@ -7,4 +7,4 @@ My Project Portfolio
 
 Project Description
 
-I chose to take this 360 image beccause it is a project for my Computer Aps. class.
+I chose to take this 360 image because it is a project for my Computer Aps. class.
